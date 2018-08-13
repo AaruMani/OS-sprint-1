@@ -1,2 +1,2 @@
-# Overstock-sprint-1
+# OS-sprint-1
 for test purpose
